@@ -1,6 +1,6 @@
 # Repositório de Teste
-_**Repositório** para adquirir conhecimento_
+Repositório para adquirir conhecimento
 
-## Funcionalidades:
+## Funcionalidades
 
-**Git**,*Checkout*,_Branch_,Merge
+**Teste**
