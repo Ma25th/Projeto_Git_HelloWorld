@@ -40,3 +40,8 @@ function soma (a + b){
     return a + b;
 }
 ```
+
+## Lista de Tarefa a Fazer :
+-[x] Area de Login
+-[x] Finalizar
+-[] Entregar 
