@@ -44,4 +44,4 @@ function soma (a + b){
 ## Lista de Tarefa a Fazer :
 - [x] Area de Login
 - [x] Finalizar
-- []Entregar 
+- [ ]Entregar 
