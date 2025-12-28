@@ -18,3 +18,9 @@ _**Repositório** para adquirir conhecimento_
 2. Teste
 3. Finalizar
 4. Entregar
+
+#### Imagem Local
+![Logo Do Python](img/Python-logo-notext.svg.png)
+
+#### Imagem Externa
+![Logo Do JavaScript](https://pt.wikipedia.org/wiki/Ficheiro:JavaScript-logo.png)
