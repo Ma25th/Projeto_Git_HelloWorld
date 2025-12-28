@@ -23,4 +23,4 @@ _**Repositório** para adquirir conhecimento_
 ![Logo Do Python](img/Python-logo-notext.svg.png)
 
 #### Imagem Externa
-![Logo Do JavaScript](https://www.cleanpng.com/free/javascript-logo.html)
+![Logo Do JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
