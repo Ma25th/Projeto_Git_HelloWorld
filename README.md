@@ -33,3 +33,10 @@ _**Repositório** para adquirir conhecimento_
 GitHub: https://github.com/Ma25th/Projeto_Git_HelloWorld?tab=readme-ov-file
 
 [![Logo Do JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)](https://www.youtube.com)
+
+###### Código Função Soma:
+``` javascript
+function soma (a + b){
+    return a + b;
+}
+```
