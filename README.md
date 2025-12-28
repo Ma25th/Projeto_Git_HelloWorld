@@ -2,6 +2,6 @@
 _**Repositório** para adquirir conhecimento_
 
 # Funcionalidades:
-**Git**,_Checkout_,*Branch*,Merge
+**Git**,_Checkout_,*Branch*,__Merge__
 
 
